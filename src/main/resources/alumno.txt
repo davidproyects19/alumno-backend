@@ -1,0 +1,3 @@
+21521651;David;Fernandez;Computacion;6
+51515212;Roberto;Gonzales;Marketing;5
+65626232;Daniela;Washington;Diseño;2
